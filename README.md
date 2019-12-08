@@ -14,7 +14,7 @@ sudo apt-get install gazebo9
 brew tap osrf/simulation
 brew install gazebo9
 ```
-## Build *sitl_gazebo*
+## Build sitl 
 
 Now, clone the repository to your device:
 
