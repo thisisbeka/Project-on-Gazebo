@@ -21,7 +21,7 @@ Now, clone the repository to your device:
 ```bash
 mkdir -p ~/src
 cd src
-git clone --recursive https://github.com/PX4/sitl_gazebo.git
+git clone --recursive https://github.com/thisisbeka/Project-on-Gazebo
 ```
 
 Create a build folder in the top level of your repository:
