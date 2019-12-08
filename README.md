@@ -5,7 +5,7 @@ To install Gazebo follow [official web page](http://gazebosim.org/tutorials?cat=
 ### Ubuntu - Linux
 
 ```bash
-sudo apt-get install gazebo9 libgazebo9-dev
+sudo apt-get install gazebo9 
 ```
 
 ### Mac OS
