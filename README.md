@@ -16,9 +16,7 @@ brew install gazebo9
 ```
 ## Build *sitl_gazebo*
 
-Clone the repository to your computer.
-
-**IMPORTANT: If you do not clone to ~/src/sitl_gazebo, all remaining paths in these instructions will need to be adjusted.**
+Now, clone the repository to your device:
 
 ```bash
 mkdir -p ~/src
@@ -45,3 +43,5 @@ Now build the gazebo plugins by typing:
 ```bash
 make -j$(nproc) -l$(nproc)
 ```
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
